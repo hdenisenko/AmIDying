@@ -33,27 +33,15 @@ ul {
 		width: 100px;
 		height: 100px;
 	}
-
 	@-moz-keyframes rotate {
-		0% {transform: rotate(0deg);}
-		100% {transform: rotate(-360deg);}
+	for (i = 0; i < 1000; i++){
+
+		i= 0% {transform: rotate(0deg);}
+		i= 100% {transform: rotate(-360deg);}
 	}
 
-	@-webkit-keyframes rotate {
-		0% {transform: rotate(0deg);}
-		100% {transform: rotate(-360deg);}
-	}
-
-	@-o-keyframes rotate {
-		0% {transform: rotate(0deg);}
-		100% {transform: rotate(-360deg);}
-	}
-
-	@keyframes rotate {
-		0% {transform: rotate(0deg);}
-		100% {transform: rotate(-360deg);}
-	}
-
+	
+}
 	.round {
 		display: block;
 		position: absolute;

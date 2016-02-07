@@ -1,26 +1,26 @@
+
 from flask import Flask, render_template
-from jinja2 import Template
-from lxml import html
-import requests
+import csv
 app = Flask(__name__)
+
+button_label = []
+with open("test.csv",'rU') as f: button_label.extend(f.read().split(','))
+
+color_list = []
+for i in range(len(button_label)-1):
+	temp_id = i % 3
+	temp_color = ''
+	if temp_id is 0: temp_color = 'yellow'
+	elif temp_id is 1: temp_color = 'green'
+	else: temp_color = 'red'
+	color_list.append(temp_color)
+button_list = zip(button_label, color_list)
+
 @app.route("/")
-
-
 def template_test():
-    root = 'http://symptomchecker.webmd.com/'
-    page = requests.get(root + 'symptoms-a-z')
-    tree = html.fromstring(page.content)
-    links1 = tree.xpath('//a[@onclick="return sl(this, \'\', \'sc-symindex-az_1\');"]/@href')
-    symptoms1 = tree.xpath('//a[@onclick="return sl(this, \'\', \'sc-symindex-az_1\');"]/text()')
-    mylist = []
-    for i in range(len(symptoms1)//10):
-        temp = []
-        for j in range(10):
-            temp.append(symptoms1[i+j])
-        mylist.append(temp)
 
-    return render_template('sampleindex.html', my_string="Wheeeee!", my_list = mylist)
+	return render_template('sampleindex.html', button_list=button_list)
 
-
+ 
 if __name__ == '__main__':
     app.run(debug=True)

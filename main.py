@@ -13,9 +13,9 @@ def template_test():
     links1 = tree.xpath('//a[@onclick="return sl(this, \'\', \'sc-symindex-az_1\');"]/@href')
     symptoms1 = tree.xpath('//a[@onclick="return sl(this, \'\', \'sc-symindex-az_1\');"]/text()')
     mylist = []
-    for i in range(len(symptoms1)//11):
+    for i in range(len(symptoms1)//10):
         temp = []
-        for j in range(11):
+        for j in range(10):
             temp.append(symptoms1[i+j])
         mylist.append(temp)
 

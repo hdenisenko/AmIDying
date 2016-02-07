@@ -1,0 +1,16 @@
+FIRST SYMPTOMS: Pain or discomfort
+SECOND SYMPTOMS: Pain or discomfort
+DISEASES
+DISEASES: Muscle strain 
+FIRST SYMPTOMS: Pain or discomfort24123
+SECOND SYMPTOMS: Pain or discomfort2
+DISEASES: Food poisoning
+DISEASES: Gas pains
+DISEASES: Gastritis
+DISEASES: Irritable bowel syndrome
+DISEASES: Panic attack
+DISEASES: Peptic ulcer
+DISEASES: Constipation (child)
+DISEASES: Constipation (adult)
+DISEASES: Gastroenteritis
+DISEASES: Muscle strain

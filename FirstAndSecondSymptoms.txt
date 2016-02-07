@@ -1808,7 +1808,6 @@ SECOND SYMPTOMS: Change in bowel habits, Muscle cramps or spasms (painful), Pain
 SECOND SYMPTOMS: Lump or bulge, Stiffness or decreased movement, Swelling, Tenderness to touch
 SECOND SYMPTOMS: Nausea or vomiting, Tenderness to touch, Upset stomach
 FIRST SYMPTOMS: Muscle cramps or spasms (painful), Pain or discomfort
-FIRST SYMPTOMS: Bruising or discoloration
 SECOND SYMPTOMS: Bruising or discoloration
 SECOND SYMPTOMS: Bloating or fullness, Bruising or discoloration, Constipation, Distended stomach
 SECOND SYMPTOMS: Bruising or discoloration, Lump or bulge
@@ -3015,7 +3014,6 @@ SECOND SYMPTOMS: Nausea or vomiting, Numbness or tingling (Scalp), Numbness or t
 SECOND SYMPTOMS: Diarrhea, Muscle cramps or spasms (painful), Nausea or vomiting, Pain or discomfort
 SECOND SYMPTOMS: Feeling faint, Nausea or vomiting
 FIRST SYMPTOMS: Pain or discomfort, Tenderness to touch
-FIRST SYMPTOMS: Drainage or pus
 SECOND SYMPTOMS: Drainage or pus
 SECOND SYMPTOMS: Drainage or pus, Skin blisters
 SECOND SYMPTOMS: Drainage or pus, Lump or bulge
@@ -4222,8 +4220,8 @@ SECOND SYMPTOMS: Bruising or discoloration, Difficulty swallowing
 SECOND SYMPTOMS: Difficulty swallowing, Mouth sores
 SECOND SYMPTOMS: Difficulty swallowing, Enlarged or swollen glands, Lump or bulge, Muscle cramps or spasms (painful)
 FIRST SYMPTOMS: Pain or discomfort, Pain or discomfort
-FIRST SYMPTOMS: Numbness or tingling, Pain or discomfort
-FIRST SYMPTOMS: Lump or bulge, Pain or discomfort
+SECOND SYMPTOMS: Numbness or tingling, Pain or discomfort
+SECOND SYMPTOMS: Lump or bulge, Pain or discomfort
 FIRST SYMPTOMS: Sore throat
 SECOND SYMPTOMS: Sore throat
 SECOND SYMPTOMS: Cough, Difficulty talking, Hoarse voice, Sore throat
@@ -4627,7 +4625,6 @@ SECOND SYMPTOMS: Pain or discomfort, Skin rash, Swelling, Tenderness to touch
 SECOND SYMPTOMS: Skin rash, Unusual or suspicious mole
 SECOND SYMPTOMS: Bruising or discoloration, Skin rash, Tenderness to touch
 FIRST SYMPTOMS: Bloating or fullness, Change in bowel habits
-FIRST SYMPTOMS: Fatigue
 SECOND SYMPTOMS: Fatigue
 SECOND SYMPTOMS: Body aches or pains, Chills, Fatigue, Feeling faint
 SECOND SYMPTOMS: Dizziness, Fatigue
@@ -5633,7 +5630,6 @@ SECOND SYMPTOMS: Bloating or fullness, Lump or bulge, Pressure or fullness, Swel
 SECOND SYMPTOMS: Muscle cramps or spasms (painful), Nausea or vomiting, Pressure or fullness
 SECOND SYMPTOMS: Bloating or fullness, Frequent urge to have bowel movement, Pressure or fullness
 FIRST SYMPTOMS: Pain or discomfort, Stiffness or decreased movement
-FIRST SYMPTOMS: Ear ache
 SECOND SYMPTOMS: Ear ache
 SECOND SYMPTOMS: Dizziness, Ear ache, Headache, Pain or discomfort
 SECOND SYMPTOMS: Ear ache, Pain or discomfort
@@ -5835,7 +5831,6 @@ SECOND SYMPTOMS: Cough, Difficulty swallowing, Ear ache, Nasal congestion
 SECOND SYMPTOMS: Difficulty breathing through nose, Ear ache, Nasal congestion
 SECOND SYMPTOMS: Difficulty breathing through nose, Dizziness, Ear ache, Headache
 FIRST SYMPTOMS: Bloating or fullness, Pain or discomfort
-FIRST SYMPTOMS: Cloudy urine with strong odor
 SECOND SYMPTOMS: Cloudy urine with strong odor
 SECOND SYMPTOMS: Cloudy urine with strong odor, Itching or burning, Pain with urination
 SECOND SYMPTOMS: Bleeding, Blood or red colored urine, Bruising or discoloration, Cloudy urine with strong odor
@@ -6439,7 +6434,6 @@ SECOND SYMPTOMS: Body aches or pains, Decreased appetite, Difficulty relaxing mu
 SECOND SYMPTOMS: Body aches or pains, Chills, Dizziness, Feeling faint
 SECOND SYMPTOMS: Body aches or pains, Dry skin, Fatigue
 FIRST SYMPTOMS: Pain or discomfort, Swelling
-FIRST SYMPTOMS: Constipation
 SECOND SYMPTOMS: Constipation
 SECOND SYMPTOMS: Change in bowel habits, Constipation, Diarrhea, Muscle cramps or spasms (painful)
 SECOND SYMPTOMS: Bloating or fullness, Change in bowel habits, Constipation, Distended stomach
@@ -6842,7 +6836,6 @@ SECOND SYMPTOMS: Bruising or discoloration, Distended stomach
 SECOND SYMPTOMS: Bloating or fullness, Distended stomach, Frequent bowel movements, Increased passing gas
 SECOND SYMPTOMS: Bloating or fullness, Distended stomach, Nausea or vomiting, Tenderness to touch
 FIRST SYMPTOMS: Nausea or vomiting, Pain or discomfort
-FIRST SYMPTOMS: Visible deformity
 SECOND SYMPTOMS: Visible deformity
 SECOND SYMPTOMS: Pain or discomfort, Unable to bear weight, Visible deformity
 SECOND SYMPTOMS: Lump or bulge, Visible deformity
@@ -7044,7 +7037,6 @@ SECOND SYMPTOMS: Lump or bulge, Visible deformity (Scalp), Visible deformity (Ne
 SECOND SYMPTOMS: Pain or discomfort, Stiffness or decreased movement, Swelling, Visible deformity
 SECOND SYMPTOMS: Lump or bulge, Visible deformity (Shin), Visible deformity (Ankle)
 FIRST SYMPTOMS: Bloating or fullness, Distended stomach
-FIRST SYMPTOMS: Headache (worst ever)
 SECOND SYMPTOMS: Headache (worst ever)
 SECOND SYMPTOMS: Chills, Fever, Headache (worst ever)
 SECOND SYMPTOMS: Headache, Headache (worst ever)
@@ -7447,7 +7439,6 @@ SECOND SYMPTOMS: Anxiety, Apathy, Bloating or fullness, Change in bowel habits
 SECOND SYMPTOMS: Anxiety, Craving alcohol, Depressed mood, Difficulty concentrating
 SECOND SYMPTOMS: Anxiety, Bloating or fullness, Constipation, Depressed mood
 FIRST SYMPTOMS: Bloating or fullness, Change in bowel habits, Constipation, Distended stomach
-FIRST SYMPTOMS: Nasal congestion
 SECOND SYMPTOMS: Nasal congestion
 SECOND SYMPTOMS: Difficulty breathing through nose, Ear ache, Headache, Nasal congestion
 SECOND SYMPTOMS: Difficulty breathing through nose, Nasal congestion

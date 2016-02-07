@@ -5,12 +5,11 @@ app = Flask(__name__)
 
 button_label = []
 with open("FirstAndSecondSymptoms.txt",'rU') as f: button_label.extend(f.read().replace('\n',' ').split('FIRST SYMPTOMS:'))
-button_dict1 = dict();
+button_dict1 = dict(); 
 for i in range(1,len(button_label)):
 	button_label[i] = button_label[i].split('SECOND SYMPTOMS:')
-	#print button_label[i]
 	button_dict1.update({button_label[i][0]:button_label[i].pop(0)})
-button_label1= button_dict1.keys()
+button_label1 = button_dict1.keys()
 print button_label1
 color_list = []
 for i in range(len(button_label1)-1):

@@ -15,16 +15,16 @@
 
 		<div class="hit-the-floor"> Am I dying? </div>
 	
-{% for n in my_list %}
-<div>
-  	<align=right ul>
-  	    {% for x in n %}
-        <li><a href="#" class="round green"><span class="round"><p>{{x}}</p></span></a></li>
-        {% endfor %}
+{% for alist in my_list %}
+<div> 
+    {% for s in alist %}
+  	<align=center ul>
+        <li><a href="#" class="round green"><span class="round"><p>{{s}}</p></span></a></li>
   		<!--<li><a href="#" class="round yellow"><span class="round"></span></a></li>
 		<li><a href="#" class="round green"><span class="round"></span></a></li>
 		<li><a href="#" class="round red"><span class="round"></span></a></li>-->
 	</ul> 
+    {% endfor %}
 </div>
 {% endfor %}
 

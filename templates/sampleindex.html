@@ -14,13 +14,17 @@
 	<div>
 
 		<div class="hit-the-floor"> Am I dying? </div>
-		<li><a href="#" class="round green"><span class="round"></span></a></li>
+		<li><a href="#" class="round green"><p>My string: {{my_string}}</p><span class="round"></span></a></li>
 		<li><a href="#" class="round red"><span class="round"></span></a></li>
 		<li><a href="#" class="round yellow"><span class="round"></span></a></li>
 	</ul>
 </div>
+
 <div>
   	<align=right ul>
+  	{% for n in my_list %}
+        <li><a href="#" class="round yellow"><span class="round"><p>{{n}}</p></span></a></li>
+        {% endfor %}
   		<li><a href="#" class="round yellow"><span class="round"></span></a></li>
 		<li><a href="#" class="round green"><span class="round"></span></a></li>
 		<li><a href="#" class="round red"><span class="round"></span></a></li>

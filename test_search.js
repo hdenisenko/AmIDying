@@ -1,3 +1,8 @@
+// <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD58XvdM0AQx907ED9RkhPjPQHquBWxXYE&libraries=places"></script>
+
+
+
+
 var infowindow,
     placemarkers=[];
 
@@ -62,6 +67,7 @@ function createMarker(latlng,map,icon,content,center,action)
   }
   return marker;
 }
+
 function initialize()
 {
 
@@ -84,7 +90,7 @@ function initialize()
                     {
                      fnc:placeSearch,
                      args:{
-                           radius: 5000,
+                           radius: 500,
                            types: ['funeral home'],
                            location:new google.maps.LatLng(place.coords.latitude,
                                                            place.coords.longitude)

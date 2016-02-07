@@ -13,11 +13,12 @@ ul {
 	}
 
 	body {
+
 		width: 100%;
 		height: 100%;
 		font-family: "helvetica neue", helvetica, arial, sans-serif;
 		font-size: 13px;
-		text-align: center;
+		text-align: right;
 		background: #333 url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/low_contrast_linen.png');
 	}
 
@@ -36,8 +37,8 @@ ul {
 	@-moz-keyframes rotate {
 	for (i = 0; i < 1000; i++){
 
-		i= 0% {transform: rotate(0deg);}
-		i= 100% {transform: rotate(-360deg);}
+		 0% {transform: rotate(0deg);}
+		 100% {transform: rotate(-360deg);}
 	}
 
 	

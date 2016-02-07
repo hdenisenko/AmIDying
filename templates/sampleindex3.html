@@ -16,13 +16,14 @@
 
 <div>
   	<align=right ul>
-  		{% for r in rate %}
-	        <li><a href="{{r}}">
+	        <li><a href="{{rate}}">
 	        	<span>
-	        		<p>37% chance you are dying</p>
+	        		<div>
+	        		<div class="text">  {{rate[1]}}%  {{rate[0]}} you're dying!!!! </div>
+	        		</ul>
+				</div>
 	        	</span>
 	        </a></li>
-        {% endfor %}
 	</ul> 
 </div>
 

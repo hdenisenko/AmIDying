@@ -1,7 +1,6 @@
-Common Diseases,Rate
 Diabetes mellitus,13.1
-Nutritional deficiencies,
-Meningitis,
+Nutritional deficiencies,0.46
+Meningitis, 0.36
 Parkinson's disease,7.8
 Alzheimer's disease,16.5
 Certain other intestinal infections,4.1
@@ -10,35 +9,35 @@ Cardiovascular diseases,173
 Other disorders of circulatory system,1.3
 Other diseases of respiratory system,8.9
 Influenza and pneumonia,18.3
-Acute bronchitis and bronchiolitis,
+Acute bronchitis and bronchiolitis,0.47
 Chronic lower respiratory diseases,20.9
-Pneumoconioses and chemical effects,
+Pneumoconioses and chemical effects,0.34
 Pneumonitis due to solids and liquids,5
-Peptic ulcer,
-Diseases of appendix,
+Peptic ulcer,0.0002
+Diseases of appendix,0.04
 Hernia,0.7
 Chronic liver disease and cirrhosis,4.3
 Cholelithiasis and other disorders of gallbladder,1.2
-"Nephritis, nephrotic syndrome and nephrosis",10.7
+"Nephritis nephrotic syndrome and nephrosis", 10.7
 Infections of kidney,0.1
 Hyperplasia of prostate,
 Inflammatory diseases of female pelvic organs,0.1
-"Pregnancy, childbirth and the puerperium",
+"Pregnancy childbirth and the puerperium",0.5
 Certain conditions originating in the perinatal period,5.2
-"Congenital malformations, deformations and chromosomal abnormalities",3.3
+"Congenital malformations deformations and chromosomal abnormalities",3.3
 Accidents (unintentional injuries),19.1
 Intentional self-harm (suicide),7.9
 Assault (homicide),3.1
-Legal intervention,
+Legal intervention, 0.15
 Operations of war and their sequelae,0.1
 Complications of medical and surgical care,0.9
 Events of undetermined intent,4.6
-"Symptoms, signs, and abnormal clinical and laboratory findings",5.1
+Symptoms signs and abnormal clinical and laboratory findings,5.1
 All other diseases (residual),68.6
 All causes of mortality,549
 Salmonella infections,0.1
 Shigellosis and amebiasis,0.1
-Tuberculosis,
+Tuberculosis, 0.25
 Whooping cough,0.1
 Scarlet fever and erysipelas,0.1
 Meningococcal infection,0.1
@@ -51,95 +50,5 @@ Viral hepatitis,1.3
 Human immunodeficiency virus (HIV) disease,2
 Malaria,0.1
 Malignant neoplasms,135.3
-"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",5.1
+"In situ neoplasms benign neoplasms and neoplasms of uncertain or unknown behavior",5.1
 Anemias,1.7
-Diabetes mellitus,14
-Nutritional deficiencies,0.6
-Meningitis,
-Parkinson's disease,7.8
-Alzheimer's disease,16
-Certain other intestinal infections,3.8
-Other infectious and parasitic diseases,2.3
-Cardiovascular diseases,175.7
-Other disorders of circulatory system,1.3
-Other dieases of respiratory system,8.3
-Influenza and pneumonia,19.4
-Acute bronchitis and bronchiolitis,
-Chronic lower respiratory diseases,22.9
-Pneumoconioses and chemical effects,
-Pneumonitis due to solids and liquids,5.6
-Peptic ulcer,
-Diseases of appendix,
-Hernia,
-Chronic liver disease and cirrhosis,4.4
-Cholelithiasis and other disorders of gallbladder,1.1
-"Nephritis, nephrotic syndrome and nephrosis",10.3
-Infections of kidney,0.1
-Hyperplasia of prostate,
-Inflammatory diseases of female pelvic organs,0.1
-"Pregnancy, childbirth and the puerperium",
-Certain conditions originating in the perinatal period,5.7
-"Congenital malformations, deformations and chromosomal abnormalities",3.1
-Accidents (unintentional injuries),19.3
-Intentional self-harm (suicide),8
-Assault (homicide),3.5
-Legal intervention,
-Operations of war and their sequelae,
-Complications of medical and surgical care,1.2
-Events of undetermined intent,5.8
-"Symptoms, signs, and abnormal clinical and laboratory findings",5.1
-All other diseases (residual),67.1
-All causes of mortality,561.1
-Salmonella infections,0.1
-Shigellosis and amebiasis,0.1
-Tuberculosis,
-Whooping cough,0.1
-Scarlet fever and erysipelas,0.1
-Meningococcal infection,0.1
-Septicemia,14.9
-Syphilis,0.1
-Acute poliomyelitis,0.1
-Arthropod-borne viral encephalitis,0.1
-Measles,0.1
-Viral hepatitis,1.2
-Human immunodeficiency virus (HIV) disease,2.5
-Malaria,0.1
-Malignant neoplasms,139
-"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",4.9
-Anemias,1.8
-Diabetes mellitus,15.1
-Nutritional deficiencies,0.8
-Meningitis,
-Parkinson's disease,8.6
-Alzheimer's disease,15
-Certain other intestinal infections,3.3
-Other infectious and parasitic diseases,2.1
-Cardiovascular diseases,182.2
-Other disorders of circulatory system,1.4
-Other diseases of respiratory system,8.2
-Influenza and pneumonia,20.9
-Acute bronchitis and bronchiolitis,
-Chronic lower respiratory diseases,23.6
-Pneumoconioses and chemical effects,
-Pneumonitis due to solids and liquids,6
-Peptic ulcer,
-Diseases of appendix,
-Hernia,
-Chronic liver disease and cirrhosis,4.4
-Cholelithiasis and other disorders of gallbladder,0.9
-"Nephritis, nephrotic syndrome and nephrosis",9.6
-Infections of kidney,0.1
-Hyperplasia of prostate,
-Inflammatory diseases of female pelvic organs,0.1
-"Pregnancy, childbirth and the puerperium",
-Certain conditions originating in the perinatal period,6.4
-"Congenital malformations, deformations and chromosomal abnormalities",3.5
-Accidents (unintentional injuries),19.5
-Intentional self-harm (suicide),7.5
-Assault (homicide),3.9
-Legal intervention,
-Operations of war and their sequelae,
-Complications of medical and surgical care,0.9
-Events of undetermined intent,6.1
-"Symptoms, signs, and abnormal clinical and laboratory findings",4.1
-All other diseases (residual),66.8

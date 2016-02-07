@@ -28,7 +28,16 @@ def symptoms2ndChoice(symptID):
 
 @app.route("/symptoms3/<string:symptID>/<string:symptID2>")
 def symptoms3ndChoice(symptID,symptID2):
-	return render_template('sampleindex3.html', button_list=button_list)
+	# #i want rates only for the diseases that we're dealing with for the symptoms -- depends on csv
+	# rates = []
+	# with open("fatality_rates.csv","rU") as k: rates.extend(k.read().split(','))
+	# highest_rate = 0
+	# for r in rates:
+	# 	if highest_rate < rates[r]:
+	# 		highest_rate = rates[r]
+
+	#
+	return render_template('sampleindex3.html',rate=[783706/100000])
 
  
 if __name__ == '__main__':

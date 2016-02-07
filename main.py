@@ -48,7 +48,7 @@ def symptoms2ndChoice(symptID):
 	for i in range(len(button_label2)-1):
 		temp_id = i % 3
 		temp_color = ''
-		if temp_id is 0: temp_color = 'yellow'
+		if temp_id is 0: temp_color = 'yellow' 
 		elif temp_id is 1: temp_color = 'green'
 		else: temp_color = 'red'
 		color_list2.append(temp_color)
